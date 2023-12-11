@@ -1,6 +1,8 @@
 # ShopFlare - Online Shopping Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) & [Tailwind CSS](https://tailwindcss.com/).
+Best viewed in : Display Scale = 125%
+                 Display Resolution = 1920 x 1080
 
 ## Screenshots
 
