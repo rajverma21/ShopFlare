@@ -6,7 +6,7 @@ export default function Home () {
     <div className='h-screen w-full overflow-hidden cursor-default'>
       <img className='object-cover h-screen w-full ' src={bgimg} alt='' />
       <div className='absolute text-white side_div'>
-        <h1 className='text-4xl side_heading mt-6 mb-2 w-[42vw] leading-[4.1rem]'>
+        <h1 className='text-4xl side_heading mt-6 mb-2 pr-[10px] w-[42vw] leading-[4.1rem]'>
           Elevate Your Style With Trendy Choices
         </h1>
         <p className='mb-2 text-base'>

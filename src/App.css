@@ -3,9 +3,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Onest:wght@600&family=Open+Sans:wght@500&display=swap');
 
 .side_heading {
-  /* font-family: 'Cabin', sans-serif;
-  font-family: 'Noto Sans', sans-serif; */
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+  /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
   font-size: 4rem;
 }
 
