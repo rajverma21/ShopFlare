@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@600&family=Noto+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@600&family=Open+Sans:wght@500&display=swap');
+
+.side_heading {
+  font-family: 'Cabin', sans-serif;
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 4rem;
+}
+
+.side_div {
+  position: absolute;
+  left: 54.7%;
+  top: 38%;
+}
+
+.marquee_slide {
+  min-height: 9vh;
+}
+
+.p_marquee {
+  font-family: 'Onest', sans-serif;
+  font-size: larger;
+}
+
+.shadow_outline {
+  text-shadow: 1px 1px 1px black, -1px 1px 1px black, 1px -1px 1px black,
+    -1px -1px 1px black;
+}
+
+.cards1 {
+  height: 35vh;
+  width: 24vw;
+  background: url(./images/img2.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.cards2 {
+  height: 35vh;
+  width: 24vw;
+  background: url(./images/img1.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.cards3 {
+  height: 35vh;
+  width: 24vw;
+  background: url(./images/img3.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.txtStroke {
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(19, 19, 19);
+}
+
+.parent:hover .child {
+  bottom: 0%;
+  transition: all ease 0.38s;
+}
+
+.dotd {
+  font-family: 'Onest', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.newletter {
+  background: url('./images/newletter.jpg');
+  height: 49vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
