@@ -29,31 +29,6 @@
     -1px -1px 1px black;
 }
 
-.cards1 {
-  height: 35vh;
-  width: 24vw;
-  background: url(./images/img2.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.cards2 {
-  height: 35vh;
-  width: 24vw;
-  background: url(./images/img1.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-.cards3 {
-  height: 35vh;
-  width: 24vw;
-  background: url(./images/img3.jpg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-}
-
 .txtStroke {
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: rgb(19, 19, 19);

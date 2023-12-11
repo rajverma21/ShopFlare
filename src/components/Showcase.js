@@ -2,7 +2,7 @@ import React from 'react'
 import blueshirt from '../images/blueshirt.jpg'
 import unknown from '../images/20103861-01.jpg'
 import nightdress from '../images/nightdress.jpg'
-import blackwomen from '../images/blackwomen.jpg'
+import blackwomen from '../images/upper_right.jpg'
 import reddress from '../images/reddress.jpg'
 import purple from '../images/purple.jpg'
 
@@ -13,7 +13,7 @@ export default function Showcase () {
         <div className='h-[35vh]  relative overflow-hidden rounded-lg '>
           <img
             src={blackwomen}
-            className='object-cover absolute top-0 transition ease-in-out hover:scale-110'
+            className='w-full h-full absolute top-0 transition ease-in-out hover:scale-110'
             alt=''
           />
           <button className='z-40 absolute right-3 bottom-3 px-5 py-1 bg-slate-100 cursor-pointer rounded-lg'>
@@ -79,7 +79,7 @@ export default function Showcase () {
         <div className='h-[35vh] relative overflow-hidden rounded-lg'>
           <img
             src={blackwomen}
-            className='object-cover absolute top-0 hover:scale-110 transition ease-in-out '
+            className='w-full h-full absolute top-0 hover:scale-110 transition ease-in-out '
             alt=''
           />
           <button className='z-40 absolute right-3 bottom-3 px-5 py-1 bg-slate-100 cursor-pointer rounded-lg'>
